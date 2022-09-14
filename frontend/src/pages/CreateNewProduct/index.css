@@ -1,0 +1,19 @@
+.button-container {
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+}
+
+.page {
+	width: 100%;
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+}
+
+.container {
+	width: 100%;
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+}
